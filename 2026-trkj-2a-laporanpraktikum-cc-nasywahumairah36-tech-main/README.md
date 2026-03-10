@@ -160,7 +160,7 @@ Manajemen Siklus Hidup: Mahasiswa mampu menguasai siklus hidup kontainer, mulai 
 
 Portabilitas dan Konektivitas: Melalui integrasi dengan Docker Hub, praktikum ini menunjukkan betapa mudahnya mendistribusikan aplikasi secara konsisten, yang merupakan pilar utama dalam teknologi Cloud Computing.
 ## G. Referensi
-1] Docker Lab, "Lab 1.1 - Lab 1.5 Guide," [Online]. Available:.
+[1] Docker Lab, "Lab 1.1 - Lab 1.5 Guide," [Online]. Available:.
 
 [2] Docker, "Docker Documentation," Docker Hub, [Online]. Available: https://docs.docker.com.
 
